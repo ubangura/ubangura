@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://imgur.com/u8HivgI" width="30px">
 
 <!--
 **ubangura/ubangura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
