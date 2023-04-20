@@ -2,7 +2,7 @@
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=007ACC&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=eclipseide&logoColor=2C2255&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipseide&logoColor=2C2255&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=3776AB&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=4169E1&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=E34F26&color=2bbc8a)
