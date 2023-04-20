@@ -17,14 +17,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/ubangura-informational?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=white)](https://www.linkedin.com/in/ubangura/)
 [![Gmail Badge](https://img.shields.io/badge/ubangura92-informational?style=for-the-badge&logo=gmail&logoColor=EA4335&color=white)](mailto:ubangura92@gmail.com)
 
-<!-- Icons -->
-
-[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to accounts -->
-
-[1]: https://www.linkedin.com/in/ubangura/
-
 <!--
 **ubangura/ubangura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
