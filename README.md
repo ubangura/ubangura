@@ -1,4 +1,16 @@
-### Hi there <img src="https://imgur.com/u8HivgI" width="30px">
+### Hi there 👋
+
+<!-- Contact -->
+
+You can find me on [![LinkedIn][1.2]][1].
+
+<!-- Icons -->
+
+[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to accounts -->
+
+[1]: https://www.linkedin.com/in/ubangura/
 
 <!--
 **ubangura/ubangura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
