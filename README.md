@@ -5,6 +5,7 @@
 ![VSCode Badge](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=007ACC&color=2bbc8a)
 ![Eclipse Badge](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipseide&logoColor=2C2255&color=2bbc8a)
 ![Google Colab Badge](https://img.shields.io/badge/Editor-Google_Colab-informational?style=flat&logo=googlecolab&logoColor=F9AB00&color=2bbc8a)
+![IBM Qiskit Badge](https://img.shields.io/badge/Editor-Qiskit-informational?style=flat&logo=qiskit&logoColor=6929C4&color=2bbc8a)
 ![JUnit Badge](https://img.shields.io/badge/Testing-JUnit-informational?style=flat&logo=junit5&logoColor=25A162&color=2bbc8a)
 ![Python Badge](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=3776AB&color=2bbc8a)
 ![Java Badge](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=&logoColor=&color=2bbc8a)
