@@ -27,5 +27,5 @@
 
 ## :mailbox: You can reach me via:
 
-[![LinkedIn Badge](https://img.shields.io/badge/ubangura-informational?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=white)](https://www.linkedin.com/in/ubangura/)
-[![Gmail Badge](https://img.shields.io/badge/ubangura92-informational?style=for-the-badge&logo=gmail&logoColor=EA4335&color=white)](mailto:ubangura92@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/ubangura-informational?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue&color=blue)](https://www.linkedin.com/in/ubangura/)
+[![Gmail Badge](https://img.shields.io/badge/ubangura92-informational?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red&color=red)](mailto:ubangura92@gmail.com)
