@@ -16,6 +16,7 @@
 ![Python Badge](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=yellow&color=2bbc8a)
 ![HTML Badge](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html5&logoColor=E34F26&color=2bbc8a)
 ![CSS Badge](https://img.shields.io/badge/Code-CSS-informational?style=for-the-badge&logo=css3&logoColor=1572B6&color=2bbc8a)
+![three.js Badge](https://img.shields.io/badge/Library-three.js-informational?style=for-the-badge&logo=threedotjs&logoColor=ffffff&color=2bbc8a)
 ![Puppeteer Badge](https://img.shields.io/badge/Library-Puppeteer-informational?style=for-the-badge&logo=puppeteer&logoColor=40B5A4&color=2bbc8a)
 ![IBM Qiskit Badge](https://img.shields.io/badge/Framework-Qiskit-informational?style=for-the-badge&logo=qiskit&logoColor=6929C4&color=2bbc8a)
 
