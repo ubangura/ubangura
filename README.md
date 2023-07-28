@@ -10,23 +10,27 @@
 - ⚡ Fun fact: I love to watch soccer <img src="https://img.icons8.com/?size=512&id=21736&format=png"  width="2%" height="2%" alt="Manchester United"> and play chess ♟
 
 ## </> Skills
-![Java Badge](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=&logoColor=&color=2bbc8a)
-![JUnit Badge](https://img.shields.io/badge/Testing-JUnit-informational?style=for-the-badge&logo=junit5&logoColor=25A162&color=2bbc8a)
-![PostgreSQL Badge](https://img.shields.io/badge/Code-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=ADD8E6&color=2bbc8a)
-![Python Badge](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=yellow&color=2bbc8a)
-![HTML Badge](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html5&logoColor=E34F26&color=2bbc8a)
-![CSS Badge](https://img.shields.io/badge/Code-CSS-informational?style=for-the-badge&logo=css3&logoColor=1572B6&color=2bbc8a)
-![three.js Badge](https://img.shields.io/badge/Library-three.js-informational?style=for-the-badge&logo=threedotjs&logoColor=ffffff&color=2bbc8a)
-![Puppeteer Badge](https://img.shields.io/badge/Library-Puppeteer-informational?style=for-the-badge&logo=puppeteer&logoColor=40B5A4&color=2bbc8a)
-![IBM Qiskit Badge](https://img.shields.io/badge/Framework-Qiskit-informational?style=for-the-badge&logo=qiskit&logoColor=6929C4&color=2bbc8a)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JUnit](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Three.js](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 
 ## 🔧 Tools
-![VSCode Badge](https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&color=2bbc8a)
-![Eclipse Badge](https://img.shields.io/badge/Editor-Eclipse-informational?style=for-the-badge&logo=eclipseide&logoColor=2C2255&color=2bbc8a)
-![Google Colab Badge](https://img.shields.io/badge/Editor-Google_Colab-informational?style=for-the-badge&logo=googlecolab&logoColor=F9AB00&color=2bbc8a)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 <!-- Contact -->
 
 ## :mailbox: You can reach me via:
 
-[![LinkedIn Badge](https://img.shields.io/badge/ubangura-informational?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue&color=blue)](https://www.linkedin.com/in/ubangura/)
-[![Gmail Badge](https://img.shields.io/badge/ubangura92-informational?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red&color=red)](mailto:ubangura92@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/ubangura-informational?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue&color=blue)](https://www.linkedin.com/in/ubangura/)
+[![Gmail](https://img.shields.io/badge/ubangura92-informational?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red&color=red)](mailto:ubangura92@gmail.com)
