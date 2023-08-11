@@ -4,7 +4,7 @@
 <!--
 **ubangura/ubangura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on a Tic-Tac-Toe AI
+- 🔭 I’m currently working on a [Tic-Tac-Toe AI](https://github.com/ubangura/Tic-Tac-Toe-AI)
 - 🌱 I’m currently learning TypeScript
 - 💬 Ask me about quantum computing
 - ⚡ Fun fact: I love to watch soccer <img src="https://img.icons8.com/?size=512&id=21736&format=png"  width="2%" height="2%" alt="Manchester United"> and play chess ♟
