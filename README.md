@@ -1,5 +1,5 @@
 # Hi, I'm Unisa :wave:
-<p>I want to pursue my passion for software by creating web and desktop applications that users will find engaging and valuable. Computer science is inherently human-centered, and developing applications is my opportunity to serve others.</p>
+<p>I want to fulfill my passion for software by creating web and desktop applications that users will find engaging and valuable. Software development is inherently human-centered and is about the people you work with and program for. Being able to serve others is what drives my passion for engineering.</p>
 
 <!--
 **ubangura/ubangura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
