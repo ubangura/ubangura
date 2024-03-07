@@ -42,4 +42,4 @@
 ## 📫 You can reach me via:
 
 [![LinkedIn](https://img.shields.io/badge/ubangura-informational?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue&color=blue)](https://www.linkedin.com/in/ubangura/)
-[![Gmail](https://img.shields.io/badge/ubangura92-informational?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red&color=red)](mailto:unisabjr@gmail.com)
+[![Gmail](https://img.shields.io/badge/unisabjr-informational?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red&color=red)](mailto:unisabjr@gmail.com)
