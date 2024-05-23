@@ -1,12 +1,12 @@
 # Hi, I'm Unisa :wave:
-<p>I want to fulfill my passion for software by creating web and desktop applications that users will find engaging and valuable and use to build community. Software development is inherently human-centered and is about the people you work with and program for. Being able to serve others is what drives my passion for engineering.</p>
+<p>🌍 I want to fulfill my passion for software by creating web and desktop applications that users will find engaging and valuable and use to build community. Software development is inherently human-centered and is about the people you work with and program for. Being able to serve others is what drives my passion for engineering.</p>
 
 <!--
 **ubangura/ubangura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on a chrome extension
+- 🔭 I’m currently working on a browser extension
 - 🌱 I’m currently learning TypeScript
-- ⚡ Fun fact: I love to watch soccer <img src="https://img.icons8.com/?size=512&id=21736&format=png"  width="2%" height="2%" alt="Manchester United"> and play chess ♟
+- ⚡ Fun fact: I love to watch soccer <img src="https://img.icons8.com/?size=512&id=21736&format=png"  width="2%" height="2%" alt="Manchester United">, cook, and play chess ♟
 
 ## </> Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
