@@ -4,7 +4,7 @@
 <!--
 **ubangura/ubangura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on a browser extension
+- 🔭 I’m currently working on a automation bot
 - 🌱 I’m currently learning TypeScript
 - ⚡ Fun fact: I love to watch soccer <img src="https://img.icons8.com/?size=512&id=21736&format=png"  width="2%" height="2%" alt="Manchester United">, cook, and play chess ♟
 
