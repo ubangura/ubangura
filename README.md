@@ -86,6 +86,8 @@ $ echo $IMPACT
 
 <div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ubangura&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=FAFAFA&ring=6366F1&fire=6366F1&currStreakLabel=0F172A&sideLabels=0F172A&dates=64748B&currStreakNum=0F172A&sideNums=0F172A&stroke=E2E8F0)](https://git.io/streak-stats)
+
 </div>
 
 
