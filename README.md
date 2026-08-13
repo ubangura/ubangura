@@ -15,7 +15,7 @@
 
 ```sh
 $ whoami
-  Unisa Bangura — Backend Engineer, CS @ UMD (Dec 2026)
+  Unisa Bangura — Backend Engineer, CS @ UMD (Jan 2026)
 
 $ cat experience.txt
   2x Amazon SWE Intern  →  Alexa Books & Alexa Radio
